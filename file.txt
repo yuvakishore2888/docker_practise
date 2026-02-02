@@ -1,4 +1,0 @@
-hi this is kishore 
-i am deleting the second line 
-adding new line to this file
-
