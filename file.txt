@@ -1,2 +1,4 @@
 hi this is kishore 
-i am writing this first file in github
+i am deleting the second line 
+adding new line to this file
+
